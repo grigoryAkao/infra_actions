@@ -54,5 +54,5 @@ jobs:
           uses: docker/build-push-action@v2
           with:
             push: true
-            tags: griroryakao/infra:latest
+            tags: grigoryakao/infra:latest
 
